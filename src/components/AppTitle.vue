@@ -14,6 +14,10 @@ export default {
 
 <style scoped>
     h1 {
-        color: white;
+        color: floralwhite;
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        transform: translateX(-50%);
     }
 </style>
